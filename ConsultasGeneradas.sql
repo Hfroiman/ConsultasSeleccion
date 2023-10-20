@@ -1,5 +1,3 @@
-
-
 -- Apellido, nombres y fecha de ingreso de todos los agentes
 
 SELECT Apellidos, Nombres, FechaIngreso from Agentes
